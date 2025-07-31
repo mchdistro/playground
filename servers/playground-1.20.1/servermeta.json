@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/playground/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "놀이터",
+    "description": "Minecraft 1.20.1 (Forge v47.4.4)",
+    "icon": "https://github.com/mchdistro/playground/raw/main/server-icon.png",
+    "address": "standard-4.alcl.cloud:25099",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.4.4"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["options.txt", "tacz/**.**"]
+    }
+  ]
+}
