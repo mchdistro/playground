@@ -1,1 +1,1 @@
-servers/**/files/resourcepacks/아포칼립스 리소스팩.zip filter=lfs diff=lfs merge=lfs -text
+servers/**/files/resourcepacks/아포칼립스[[:space:]]리소스팩.zip filter=lfs diff=lfs merge=lfs -text
