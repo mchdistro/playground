@@ -13,7 +13,7 @@
       "description": "Minecraft 1.20.1 (Forge v47.4.4)",
       "icon": "https://github.com/mchdistro/playground/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost",
+      "address": "34.22.94.118",
       "minecraftVersion": "1.20.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -21,7 +21,7 @@
         "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
       },
       "mainServer": true,
-      "autoconnect": false,
+      "autoconnect": true,
       "modules": [
         {
           "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.4",
@@ -811,6 +811,17 @@
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/resourcepacks/%EC%95%84%ED%8F%AC%EC%B9%BC%EB%A6%BD%EC%8A%A4%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
             "MD5": "f0c89286898f3f39673a8caec75681eb",
             "path": "resourcepacks/아포칼립스 리소스팩.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 91,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/servers.dat",
+            "MD5": "f2000777b1a26ba49028fe42c45d2f25",
+            "path": "servers.dat"
           }
         },
         {
@@ -10373,7 +10384,7 @@
           "type": "File",
           "artifact": {
             "size": 30800,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%2520.ogg",
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg",
             "MD5": "cbf596f229e34a7faa1da14a20db84ce",
             "path": "tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg"
           }
