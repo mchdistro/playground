@@ -478,16 +478,6 @@
           }
         },
         {
-          "id": "com.blamejared:clumps:12.0.0.4@jar",
-          "name": "Clumps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 20299,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
-            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
-          }
-        },
-        {
           "id": "com.mrcrayfish:configured:2.2.3@jar",
           "name": "Configured",
           "type": "ForgeMod",
@@ -498,13 +488,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:corpse:1.20.1-1.0.21@jar",
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.20@jar",
           "name": "Corpse",
           "type": "ForgeMod",
           "artifact": {
-            "size": 245618,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.21.jar",
-            "MD5": "346a9e592558c1fde772b39c10be4cdf"
+            "size": 244994,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.20.jar",
+            "MD5": "143d3e76139de3b9186849f494a41af6"
           }
         },
         {
@@ -538,33 +528,33 @@
           }
         },
         {
-          "id": "com.mrcrayfish:framework:0.7.15@jar",
+          "id": "com.mrcrayfish:framework:0.7.12@jar",
           "name": "Framework",
           "type": "ForgeMod",
           "artifact": {
-            "size": 309560,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
-            "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
+            "size": 308420,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.12.jar",
+            "MD5": "1b6b6ccc60c5a6ef2c232553f8a060f4"
           }
         },
         {
-          "id": "dev.ftb.mods:ftblibrary:2001.2.10@jar",
+          "id": "dev.ftb.mods:ftblibrary:2001.2.9@jar",
           "name": "FTB Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 791875,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/ftb-library-forge-2001.2.10.jar",
-            "MD5": "ae5292127a5a0d85d793bbce8f1e24dd"
+            "size": 791841,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/ftb-library-forge-2001.2.9.jar",
+            "MD5": "cdf8b270d3ee2c403a26206b10e0a749"
           }
         },
         {
-          "id": "software.bernie.example:geckolib:4.7.3@jar",
+          "id": "software.bernie.example:geckolib:4.7.1.2@jar",
           "name": "GeckoLib 4",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1012611,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.3.jar",
-            "MD5": "771fb21a83d735260ff271092d8cc311"
+            "size": 1012500,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.7.1.2.jar",
+            "MD5": "cd951c81b5551b8a3f215a825d2934fa"
           }
         },
         {
@@ -578,13 +568,13 @@
           }
         },
         {
-          "id": "com.corrinedev:gundurability:1.8.2@jar",
+          "id": "com.corrinedev:gundurability:1.7.3@jar",
           "name": "TACZ Durability",
           "type": "ForgeMod",
           "artifact": {
-            "size": 533823,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/gundurability-1.8.2-all.jar",
-            "MD5": "0f3f2fd56e460ec36bfaf02e2bf725d2"
+            "size": 362174,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/gundurability-1.7.3.jar",
+            "MD5": "6dd236cb26ed94036d65bdf857d23890"
           }
         },
         {
@@ -598,23 +588,23 @@
           }
         },
         {
-          "id": "com.corrinedev:jsconf:1.1.1@jar",
+          "id": "com.corrinedev:jsconf:1.0.0@jar",
           "name": "JasonConfig",
           "type": "ForgeMod",
           "artifact": {
-            "size": 17565,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/jsconf-1.1.1.jar",
-            "MD5": "9b12812822abe6e0279f1f8baea16c70"
+            "size": 17492,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/jsconf-1.1.0.jar",
+            "MD5": "9cc5b239ac2a3e7bbdfed55884d2f963"
           }
         },
         {
-          "id": "ttv.migami:jeg:0.13.2@jar",
+          "id": "ttv.migami:jeg:0.11.1@jar",
           "name": "Just Enough Guns",
           "type": "ForgeMod",
           "artifact": {
-            "size": 9877729,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/JustEnoughGuns-0.13.2-1.20.1.jar",
-            "MD5": "41346e02ee9162cc0ec7df69fa575fa1"
+            "size": 8213414,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/JustEnoughGuns-0.11.1-1.20.1.jar",
+            "MD5": "586a5927f8b1daae66f4d873070de0ff"
           }
         },
         {
@@ -628,33 +618,33 @@
           }
         },
         {
-          "id": "me.xjqsh:lradd:0.3.0@jar",
+          "id": "me.xjqsh:lradd:0.2.4@jar",
           "name": "LesRaisinsAddon",
           "type": "ForgeMod",
           "artifact": {
-            "size": 42492650,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/lradd-1.20.1-0.3.0.jar",
-            "MD5": "a3710d72c75c24b8235142061f9e217c"
+            "size": 30070401,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/lradd-1.20.1-0.2.4.jar",
+            "MD5": "99b70c30b84d622182d6e45f5b6da70d"
           }
         },
         {
-          "id": "ttv.migami:mteg:1.1.2@jar",
+          "id": "ttv.migami:mteg:1.1.1@jar",
           "name": "Mo' Than Enough Guns",
           "type": "ForgeMod",
           "artifact": {
-            "size": 2010086,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/M'TEG-1.1.2-1.20.1.jar",
-            "MD5": "1da49885316d16805ec9eb3e5c8881c4"
+            "size": 2015093,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/M'TEG-1.1.1-1.20.1.jar",
+            "MD5": "f10460472a245b8c800a355623d2e05d"
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.3+mc1.20.1@jar",
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.21.0+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 879295,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/modernfix-forge-5.24.3+mc1.20.1.jar",
-            "MD5": "9dc3ef7fb72521888ea3b04f26ba86c3"
+            "size": 824640,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/modernfix-forge-5.21.0+mc1.20.1.jar",
+            "MD5": "3231eb6ba18ea27d8dd3a66fc4fc952e"
           }
         },
         {
@@ -688,13 +678,13 @@
           }
         },
         {
-          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.15@jar",
+          "id": "com.sonicether.soundphysics:sound_physics_remastered:1.20.1-1.4.8@jar",
           "name": "Sound Physics Remastered",
           "type": "ForgeMod",
           "artifact": {
-            "size": 204486,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.15.jar",
-            "MD5": "bf2e072b924a55422849f6c126bd2455"
+            "size": 197076,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/sound-physics-remastered-forge-1.20.1-1.4.8.jar",
+            "MD5": "d4681103e45776840799b25a61997e7b"
           }
         },
         {
@@ -708,23 +698,23 @@
           }
         },
         {
-          "id": "com.tacz.guns:tacz:1.1.6-hotfix@jar",
+          "id": "com.tacz.guns:tacz:1.1.4-hotfix@jar",
           "name": "Timeless & Classics Guns: Zero",
           "type": "ForgeMod",
           "artifact": {
-            "size": 47826468,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/tacz-1.20.1-1.1.6-hotfix.jar",
-            "MD5": "51636447584a75f8d2db2fb930d110b1"
+            "size": 39318868,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/tacz-1.20.1-1.1.4-hotfix-all.jar",
+            "MD5": "988148c4bf2235926a5c25d9cf24273c"
           }
         },
         {
-          "id": "me.muksc:tacztweaks:2.7.1@jar",
+          "id": "me.muksc:tacztweaks:2.3.0@jar",
           "name": "TaCZ Tweaks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1498192,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/tacz-tweaks-2.7.1-all.jar",
-            "MD5": "eb2cc9af960aec15b188c5e0c672ff59"
+            "size": 787092,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/tacz-tweaks-2.3.0-all.jar",
+            "MD5": "c2490c71a1cd0e61242de6259fdda757"
           }
         },
         {
@@ -738,13 +728,13 @@
           }
         },
         {
-          "id": "info.u_team.u_team_core:uteamcore:5.1.4.382@jar",
+          "id": "info.u_team.u_team_core:uteamcore:5.1.4.362@jar",
           "name": "U Team Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 587742,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/u_team_core-forge-1.20.1-5.1.4.382.jar",
-            "MD5": "cd46e7fbd2e4527015dd69dffe3e40a3"
+            "size": 587603,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/u_team_core-forge-1.20.1-5.1.4.362.jar",
+            "MD5": "71db48cee765cb109c393da532fa062b"
           }
         },
         {
@@ -768,13 +758,13 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.20.1-2.5.35@jar",
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.28@jar",
           "name": "Simple Voice Chat",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8646989,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.35.jar",
-            "MD5": "35334e72794c1b612bb9b2290dd8a27c"
+            "size": 7745604,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.28.jar",
+            "MD5": "b6aef4e2ec4871dbb051cfc20517a8a0"
           }
         },
         {
@@ -792,19 +782,19 @@
           "name": "Zmodfood",
           "type": "ForgeMod",
           "artifact": {
-            "size": 557359,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/zmodfood%200.6.5.jar",
-            "MD5": "d244b11ebd45760d78060e0ff6bacd50"
+            "size": 364755,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/zmodfood.0.6.4.jar",
+            "MD5": "82a1ed1000a4978a654d08fe6e85f009"
           }
         },
         {
-          "id": "zombie_extreme:zombie_extreme:0.2.6.4@jar",
+          "id": "zombie_extreme:zombie_extreme:0.2.6.3@jar",
           "name": "Zombie Extreme",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8041648,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/Zombie%20Island%201.20.1%200.1.3.4.jar",
-            "MD5": "7124b2527c4f56ac060afcca8e1c239a"
+            "size": 8040116,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/forgemods/required/Zombie%20Extreme%201.20.1%200.2.6.3.jar",
+            "MD5": "a3db27265e37184c4003e6824c04fcc5"
           }
         },
         {
