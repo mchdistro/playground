@@ -12,7 +12,19 @@
       "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
     },
     "mainServer": true,
-    "autoconnect": true
+    "autoconnect": true,
+    "javaOptions": {
+      "supported": "=>17",
+      "suggestedMajor": 21,
+      "platformOptions": [
+        {
+          "platform": "win32",
+          "architecture": "x64",
+          "distribution": "TEMURIN"
+        }
+      ],
+      "ram": { "minimum": 4096, "recommended": 8192 }
+    }
   },
   "forge": {
     "version": "47.4.4"
