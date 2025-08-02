@@ -10399,7 +10399,7 @@
           "type": "File",
           "artifact": {
             "size": 30800,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg",
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%2520.ogg",
             "MD5": "cbf596f229e34a7faa1da14a20db84ce",
             "path": "tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg"
           }
