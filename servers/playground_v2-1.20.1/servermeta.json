@@ -32,7 +32,7 @@
   "untrackedFiles": [
     {
       "appliesTo": ["files"],
-      "patterns": ["options.txt", "tacz/**.**"]
+      "patterns": ["options.txt", "tacz/**.**", "config/gundurability-client.json"]
     }
   ]
 }
