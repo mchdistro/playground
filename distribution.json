@@ -822,9 +822,9 @@
           "name": "아포칼립스 리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 167751803,
+            "size": 167871279,
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/resourcepacks/%EC%95%84%ED%8F%AC%EC%B9%BC%EB%A6%BD%EC%8A%A4%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "f0c89286898f3f39673a8caec75681eb",
+            "MD5": "7f417d11aa03eafa758ea49badd09d5b",
             "path": "resourcepacks/아포칼립스 리소스팩.zip"
           }
         },
@@ -10399,7 +10399,7 @@
           "type": "File",
           "artifact": {
             "size": 30800,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%2520.ogg",
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg",
             "MD5": "cbf596f229e34a7faa1da14a20db84ce",
             "path": "tacz/lradd_default_gun/assets/lrl/tacz_sounds/p320_doctor/foley_classes_props_c101_medicalgun_s_magin_02_r1%20.ogg"
           }
