@@ -468,6 +468,16 @@
           }
         },
         {
+          "id": "com.vladmarica:betterpingdisplay:1.1@jar",
+          "name": "Better Ping Display",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15889,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/BetterPingDisplay-1.20.1-1.1.jar",
+            "MD5": "2a331e8f5a7cc2609d67f7975fba7d7e"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -598,13 +608,13 @@
           }
         },
         {
-          "id": "ttv.migami:jeg:0.11.1@jar",
+          "id": "ttv.migami:jeg:0.13.0@jar",
           "name": "Just Enough Guns",
           "type": "ForgeMod",
           "artifact": {
-            "size": 8213414,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/JustEnoughGuns-0.11.1-1.20.1.jar",
-            "MD5": "586a5927f8b1daae66f4d873070de0ff"
+            "size": 9866953,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/JustEnoughGuns-0.13.0-1.20.1.jar",
+            "MD5": "096ce3d516d3714316ddf374a2d2b887"
           }
         },
         {
@@ -628,16 +638,6 @@
           }
         },
         {
-          "id": "ttv.migami:mteg:1.1.1@jar",
-          "name": "Mo' Than Enough Guns",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2015093,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/M'TEG-1.1.1-1.20.1.jar",
-            "MD5": "f10460472a245b8c800a355623d2e05d"
-          }
-        },
-        {
           "id": "org.embeddedt.modernfix.forge.init:modernfix:5.21.0+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
@@ -655,6 +655,16 @@
             "size": 721366,
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
           }
         },
         {
@@ -877,16 +887,6 @@
             "size": 348784,
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/Gunfighter%C2%B4s%20Gear-v1.2.0_converted.zip",
             "path": "tacz/Gunfighter´s Gear-v1.2.0_converted.zip"
-          }
-        },
-        {
-          "id": "Knife_m9.zip",
-          "name": "Knife_m9.zip",
-          "type": "File",
-          "artifact": {
-            "size": 548516,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/Knife_m9.zip",
-            "path": "tacz/Knife_m9.zip"
           }
         },
         {
@@ -44757,16 +44757,6 @@
             "size": 1661750,
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/The%20Continental%20v1.1.zip",
             "path": "tacz/The Continental v1.1.zip"
-          }
-        },
-        {
-          "id": "throwable_thing_v1.3.1-1.1.4_hotfix_1.zip",
-          "name": "throwable_thing_v1.3.1-1.1.4_hotfix_1.zip",
-          "type": "File",
-          "artifact": {
-            "size": 1123736,
-            "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v2-1.20.1/files/tacz/throwable_thing_v1.3.1-1.1.4_hotfix_1.zip",
-            "path": "tacz/throwable_thing_v1.3.1-1.1.4_hotfix_1.zip"
           }
         },
         {
