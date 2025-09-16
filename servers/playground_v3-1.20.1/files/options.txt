@@ -42,8 +42,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","tacz_resources","mod_resources","file/아포칼립스 리소스팩.zip"]
-incompatibleResourcePacks:[]
+resourcePacks:["vanilla","tacz_resources","mod_resources","jeg_cfg_config_resources","file/아포칼립스 리소스팩.zip","file/resource pack.zip"]
+incompatibleResourcePacks:["file/resource pack.zip"]
 lastServer:
 lang:ko_kr
 soundDevice:""
