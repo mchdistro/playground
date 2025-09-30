@@ -1633,9 +1633,9 @@
           "name": "아포칼립스 리소스팩.zip",
           "type": "File",
           "artifact": {
-            "size": 61645862,
+            "size": 61670368,
             "url": "https://github.com/mchdistro/playground/raw/main/servers/playground_v4-1.20.1/files/resourcepacks/%EC%95%84%ED%8F%AC%EC%B9%BC%EB%A6%BD%EC%8A%A4%20%EB%A6%AC%EC%86%8C%EC%8A%A4%ED%8C%A9.zip",
-            "MD5": "9569a95fd22d144ebcd11a7c817c5a1d",
+            "MD5": "6bb145c3568599709066694b5f3cad98",
             "path": "resourcepacks/아포칼립스 리소스팩.zip"
           }
         },
